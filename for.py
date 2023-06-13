@@ -1,4 +1,4 @@
-'''larguest_so_far =-1
+larguest_so_far =-1
 
 print("Before",larguest_so_far )
 
@@ -75,7 +75,7 @@ for the_num in [9,41,12,3,74,15]:
     if the_num < small_so_far:
         small_so_far=the_num
     print(small_so_far,the_num)
-print("after",small_so_far)'''
+print("after",small_so_far)
 
 print('*****************************************************')
 
